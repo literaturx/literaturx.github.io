@@ -2,7 +2,7 @@ exclude: [README.md, cmd-ruby-x64.lnk, cmd-ruby-x86.lnk]
 
 collections:
   authors:
-    output: true
+    output: false
 
 defaults:
   - scope:

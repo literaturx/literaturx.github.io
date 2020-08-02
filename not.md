@@ -11,3 +11,5 @@ date: 9000-00-00 00:00:00 +07
 
 
 https://archive.org/download/Manga2017digitaldanke-empire/Ajin%20-%20Demi-Human%20%28Digital%29%20%28LostNerevarine%2BHexer%2Bdanke-Empire%29/
+
+https://pokokepok.blogspot.com/2019/03/novel-tetralogi-muhammad-tasaro-gk.html

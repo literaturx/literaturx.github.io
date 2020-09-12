@@ -1,4 +1,5 @@
 ---
+layout: search
 ---
 [
   {% for post in site.posts %}
@@ -14,6 +15,5 @@
 ]
 
 {% comment %}
-
 url https://blog.webjeda.com/instant-jekyll-search/
 {% endcomment %}

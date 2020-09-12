@@ -1,4 +1,4 @@
-exclude: [README.md, cmd-ruby-x64.lnk, cmd-ruby-x86.lnk, not.md]
+exclude: [README.md, cmd-ruby-x64.lnk, cmd-ruby-x86.lnk, not.md, index-old.md]
 
 collections:
   authors:

@@ -4,7 +4,7 @@ layout: default
 
 # literaturx
 
-<p style="font-family: monospace">
+<!--p style="font-family: monospace">
 {% assign pad0 = '00' %}
 {% assign n = pad0 | size %}
 {% assign m = 0 | minus: n %}
@@ -21,7 +21,7 @@ layout: default
 		{% endcomment %}
 		{{ post.title }}</a>{% if j == "00" %}.{% else %},{% endif %}
 {% endfor %}
-</p>
+</p-->
 
 <!-- Html Elements for Search -->
 <div id="search-container">
